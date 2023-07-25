@@ -1,0 +1,19 @@
+@media (max-width: 991px) {
+    .menu{
+        display: none;
+    }  
+    .mobile-icon{
+        display: block; 
+    }
+    .mobile-icon i{
+        color: #fff;
+        font-size: 25px;
+    }
+    
+    .banner-left{
+        width: 100%;
+    }
+    .banner-right{
+        width: 100%;
+    }
+}
